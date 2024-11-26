@@ -11,5 +11,5 @@ Brief Description:
   You also need to have a section that shows the previous 5 names that were pulled from your Random Name Generator.
   Don't forget to have fun!!!
 
-Peer Review by:
-""
+Peer Review by: Hassan Sajid
+"The application looks very good. There are interesting candy cane colors for the student name history each time the students are generated and the code looks pretty neat except for the multiple id variables for each student name in the history. Good job, you met all the requirments and your code works perfectly. "
